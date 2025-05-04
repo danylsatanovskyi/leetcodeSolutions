@@ -6,7 +6,7 @@
 
 
 # 5ms runtime, beats 76%
-class Solution(object):
+class Solution(object): 
     def addTwoNumbers(self, l1, l2):
         ptr1 = l1
         ptr2 = l2
